@@ -22,12 +22,13 @@
 
 <table>
   <tr>
-    <td style="vertical-align: middle; padding-right: 20px; max-width: 60%;">
+    <td style="vertical-align: middle;">
       “Gostaria que não tivesse que acontecer no meu tempo”, afirmou Frodo. “Eu também,” assentiu Gandalf, “e gostariam todos os que vivem para ver tais tempos. Mas isso não cabe a eles decidir. Tudo o que temos que decidir é o que fazer com o tempo que nos é dado.”<br>
       — J.R.R. Tolkien, O Senhor dos Anéis: A Sociedade do Anel (1954).
     </td>
     <td style="vertical-align: middle;">
-      <img src="/turbo-granny-dandadan.gif" width="400" height="auto" alt="turboGranny" />
+      <img src="/turbo-granny-dandadan.gif" style="width: 100rem; height: auto;" alt="turboGranny" />
     </td>
   </tr>
 </table>
+
