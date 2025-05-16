@@ -18,6 +18,16 @@
 )](#)
 [![HTML5](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 
+---
 
-> “Gostaria que não tivesse que acontecer no meu tempo”, afirmou Frodo. “Eu também,” assentiu Gandalf, “e gostariam todos os que vivem para ver tais tempos. Mas isso não cabe a eles decidir. Tudo o que temos que decidir é o que fazer com o tempo que nos é dado.”
-— J.R.R. Tolkien, O Senhor dos Anéis: A Sociedade do Anel (1954).
+<table>
+  <tr>
+    <td style="vertical-align: middle; padding-right: 20px; max-width: 60%;">
+      “Gostaria que não tivesse que acontecer no meu tempo”, afirmou Frodo. “Eu também,” assentiu Gandalf, “e gostariam todos os que vivem para ver tais tempos. Mas isso não cabe a eles decidir. Tudo o que temos que decidir é o que fazer com o tempo que nos é dado.”<br>
+      — J.R.R. Tolkien, O Senhor dos Anéis: A Sociedade do Anel (1954).
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="/turbo-granny-dandadan.gif" width="400" height="auto" alt="turboGranny" />
+    </td>
+  </tr>
+</table>
